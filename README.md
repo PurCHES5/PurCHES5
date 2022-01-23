@@ -1,7 +1,7 @@
 <h1>Introductions</h1>
 
 <ul>
-  <li> 👀 Interested in C#, Kotlin, Android Development 📱, Unity3d 🎮, Python 👨‍💻
+  <li> C#, Java, Android Development 📱, Unity3d 🎮, Python 👨‍💻
   <li> 🌍 Looking to collaborate on <b>anything</b> that provides with me new knowledge 💡
   <li> 📫 Email: cest.andrew@outlook.com
 </ul>
